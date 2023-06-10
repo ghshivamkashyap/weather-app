@@ -232,9 +232,11 @@ h1 {
   }
 
   .wrapper {
-    width: 100vw;
-    height: 100vh;
+    width: auto;
+    height: 175vh;
     color: whitesmoke;
     background-image: linear-gradient(to bottom, #2d91c2 0%, #1e528e 100%);
   }
+
+  
 }
